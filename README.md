@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ayush807sinha/DSA/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/ayush807sinha/DSA/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush807sinha/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ayush807sinha/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ayush807sinha/DSA/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ayush807sinha/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
