@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayush807sinha/DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/ayush807sinha/DSA/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/ayush807sinha/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayush807sinha/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
@@ -61,4 +62,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayush807sinha/DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/ayush807sinha/DSA/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
