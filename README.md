@@ -11,12 +11,14 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ayush807sinha/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/ayush807sinha/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush807sinha/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayush807sinha/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ayush807sinha/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush807sinha/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayush807sinha/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayush807sinha/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Sliding Window
@@ -24,6 +26,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ayush807sinha/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush807sinha/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayush807sinha/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
@@ -66,6 +69,7 @@
 | [0141-linked-list-cycle](https://github.com/ayush807sinha/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ayush807sinha/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayush807sinha/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
 | [0986-interval-list-intersections](https://github.com/ayush807sinha/DSA/tree/master/0986-interval-list-intersections) |
 ## Bit Manipulation
 |  |
