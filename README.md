@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayush807sinha/DSA/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/ayush807sinha/DSA/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ayush807sinha/DSA/tree/master/0409-longest-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ayush807sinha/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
