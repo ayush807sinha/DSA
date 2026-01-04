@@ -19,6 +19,7 @@
 | [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayush807sinha/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/ayush807sinha/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/ayush807sinha/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ayush807sinha/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ayush807sinha/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ayush807sinha/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/ayush807sinha/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0383-ransom-note](https://github.com/ayush807sinha/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayush807sinha/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ayush807sinha/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/ayush807sinha/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Greedy
 |  |
 | ------- |
