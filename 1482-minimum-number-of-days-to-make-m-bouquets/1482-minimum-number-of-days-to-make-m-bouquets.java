@@ -24,11 +24,6 @@ class Solution {
     public int minDays(int[] arr, int m, int k) {
         int n = arr.length;
         int low =0;
-        for(int i=0;i<n;i++){
-            if(arr[i]<=low){
-                low =arr[i];
-            }
-        }
         int high = 0;
         for(int i=0;i<n;i++){
             if(arr[i]>=high){
