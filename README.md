@@ -69,6 +69,7 @@
 | [0724-find-pivot-index](https://github.com/ayush807sinha/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ayush807sinha/DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayush807sinha/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/ayush807sinha/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ayush807sinha/DSA/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayush807sinha/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayush807sinha/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/ayush807sinha/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ayush807sinha/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/ayush807sinha/DSA/tree/master/0860-lemonade-change) |
 ## Recursion
 |  |
 | ------- |
