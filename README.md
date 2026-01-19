@@ -56,6 +56,7 @@
 | [0053-maximum-subarray](https://github.com/ayush807sinha/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ayush807sinha/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayush807sinha/DSA/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/ayush807sinha/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/ayush807sinha/DSA/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/ayush807sinha/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush807sinha/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayush807sinha/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush807sinha/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/ayush807sinha/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush807sinha/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayush807sinha/DSA/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/ayush807sinha/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -201,4 +203,8 @@
 | [0046-permutations](https://github.com/ayush807sinha/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ayush807sinha/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/ayush807sinha/DSA/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ayush807sinha/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
