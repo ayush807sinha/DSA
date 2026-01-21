@@ -138,6 +138,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ayush807sinha/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ayush807sinha/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/ayush807sinha/DSA/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ayush807sinha/DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayush807sinha/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ayush807sinha/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/ayush807sinha/DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/ayush807sinha/DSA/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayush807sinha/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -208,6 +210,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ayush807sinha/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ayush807sinha/DSA/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
