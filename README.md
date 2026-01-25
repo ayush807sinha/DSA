@@ -17,6 +17,7 @@
 | [0525-contiguous-array](https://github.com/ayush807sinha/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush807sinha/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/ayush807sinha/DSA/tree/master/0692-top-k-frequent-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayush807sinha/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/ayush807sinha/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ayush807sinha/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -32,6 +33,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ayush807sinha/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayush807sinha/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/ayush807sinha/DSA/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayush807sinha/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ayush807sinha/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayush807sinha/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -70,6 +72,7 @@
 | [0455-assign-cookies](https://github.com/ayush807sinha/DSA/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/ayush807sinha/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush807sinha/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/ayush807sinha/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/ayush807sinha/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ayush807sinha/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ayush807sinha/DSA/tree/master/0739-daily-temperatures) |
@@ -180,6 +183,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush807sinha/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayush807sinha/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/ayush807sinha/DSA/tree/master/0455-assign-cookies) |
+| [0692-top-k-frequent-words](https://github.com/ayush807sinha/DSA/tree/master/0692-top-k-frequent-words) |
 ## Line Sweep
 |  |
 | ------- |
@@ -199,6 +203,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/ayush807sinha/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayush807sinha/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/ayush807sinha/DSA/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/ayush807sinha/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ayush807sinha/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Greedy
@@ -238,8 +243,17 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush807sinha/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayush807sinha/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/ayush807sinha/DSA/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush807sinha/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/ayush807sinha/DSA/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/ayush807sinha/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
