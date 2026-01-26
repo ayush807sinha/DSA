@@ -58,6 +58,7 @@
 | [0053-maximum-subarray](https://github.com/ayush807sinha/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ayush807sinha/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayush807sinha/DSA/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/ayush807sinha/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ayush807sinha/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/ayush807sinha/DSA/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/ayush807sinha/DSA/tree/master/0152-maximum-product-subarray) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayush807sinha/DSA/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/ayush807sinha/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ayush807sinha/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/ayush807sinha/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ayush807sinha/DSA/tree/master/0198-house-robber) |
@@ -235,6 +237,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/ayush807sinha/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ayush807sinha/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayush807sinha/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayush807sinha/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
