@@ -82,6 +82,7 @@
 | [0860-lemonade-change](https://github.com/ayush807sinha/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ayush807sinha/DSA/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayush807sinha/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/ayush807sinha/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayush807sinha/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/ayush807sinha/DSA/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayush807sinha/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -169,6 +170,7 @@
 | [0213-house-robber-ii](https://github.com/ayush807sinha/DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/ayush807sinha/DSA/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayush807sinha/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/ayush807sinha/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ayush807sinha/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ayush807sinha/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
@@ -243,6 +245,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ayush807sinha/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayush807sinha/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayush807sinha/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/ayush807sinha/DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
