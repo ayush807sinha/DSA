@@ -71,6 +71,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/ayush807sinha/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ayush807sinha/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayush807sinha/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/ayush807sinha/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ayush807sinha/DSA/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/ayush807sinha/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush807sinha/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -168,6 +169,7 @@
 | [0152-maximum-product-subarray](https://github.com/ayush807sinha/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ayush807sinha/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayush807sinha/DSA/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/ayush807sinha/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/ayush807sinha/DSA/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayush807sinha/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/ayush807sinha/DSA/tree/master/0931-minimum-falling-path-sum) |
