@@ -79,6 +79,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayush807sinha/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/ayush807sinha/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ayush807sinha/DSA/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/ayush807sinha/DSA/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/ayush807sinha/DSA/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/ayush807sinha/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush807sinha/DSA/tree/master/0560-subarray-sum-equals-k) |
