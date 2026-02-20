@@ -50,6 +50,7 @@
 | [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ayush807sinha/DSA/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayush807sinha/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayush807sinha/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Array
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayush807sinha/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ayush807sinha/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayush807sinha/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayush807sinha/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush807sinha/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ayush807sinha/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayush807sinha/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -131,6 +133,7 @@
 | [0724-find-pivot-index](https://github.com/ayush807sinha/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayush807sinha/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayush807sinha/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayush807sinha/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
 | ------- |
