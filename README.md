@@ -70,6 +70,7 @@
 | [0152-maximum-product-subarray](https://github.com/ayush807sinha/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush807sinha/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayush807sinha/DSA/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/ayush807sinha/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ayush807sinha/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayush807sinha/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush807sinha/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/ayush807sinha/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ayush807sinha/DSA/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/ayush807sinha/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayush807sinha/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayush807sinha/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ayush807sinha/DSA/tree/master/0344-reverse-string) |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayush807sinha/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/ayush807sinha/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayush807sinha/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/ayush807sinha/DSA/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ayush807sinha/DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
