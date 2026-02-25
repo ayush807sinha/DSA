@@ -75,6 +75,7 @@
 | [0213-house-robber-ii](https://github.com/ayush807sinha/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush807sinha/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayush807sinha/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/ayush807sinha/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ayush807sinha/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ayush807sinha/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayush807sinha/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -152,6 +153,7 @@
 | [0141-linked-list-cycle](https://github.com/ayush807sinha/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/ayush807sinha/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayush807sinha/DSA/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/ayush807sinha/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ayush807sinha/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ayush807sinha/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/ayush807sinha/DSA/tree/master/0455-assign-cookies) |
