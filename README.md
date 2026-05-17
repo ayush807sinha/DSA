@@ -240,6 +240,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ayush807sinha/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/ayush807sinha/DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayush807sinha/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayush807sinha/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -325,4 +326,16 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ayush807sinha/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ayush807sinha/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ayush807sinha/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ayush807sinha/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
