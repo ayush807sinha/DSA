@@ -111,6 +111,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayush807sinha/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayush807sinha/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush807sinha/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/ayush807sinha/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ayush807sinha/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayush807sinha/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ayush807sinha/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -136,6 +137,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayush807sinha/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayush807sinha/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush807sinha/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/ayush807sinha/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayush807sinha/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Prefix Sum
 |  |
@@ -303,6 +305,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/ayush807sinha/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/ayush807sinha/DSA/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayush807sinha/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ayush807sinha/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -316,6 +319,7 @@
 | [0767-reorganize-string](https://github.com/ayush807sinha/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/ayush807sinha/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayush807sinha/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ayush807sinha/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -383,6 +387,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush807sinha/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/ayush807sinha/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ayush807sinha/DSA/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/ayush807sinha/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -426,6 +431,7 @@
 | [0785-is-graph-bipartite](https://github.com/ayush807sinha/DSA/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ayush807sinha/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/ayush807sinha/DSA/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/ayush807sinha/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -439,6 +445,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/ayush807sinha/DSA/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/ayush807sinha/DSA/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/ayush807sinha/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
