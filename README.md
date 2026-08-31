@@ -70,6 +70,7 @@
 | [0057-insert-interval](https://github.com/ayush807sinha/DSA/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/ayush807sinha/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ayush807sinha/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayush807sinha/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ayush807sinha/DSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/ayush807sinha/DSA/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ayush807sinha/DSA/tree/master/0152-maximum-product-subarray) |
@@ -168,6 +169,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush807sinha/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/ayush807sinha/DSA/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayush807sinha/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/ayush807sinha/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ayush807sinha/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/ayush807sinha/DSA/tree/master/0189-rotate-array) |
