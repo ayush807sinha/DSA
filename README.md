@@ -108,6 +108,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/ayush807sinha/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/ayush807sinha/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayush807sinha/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayush807sinha/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ayush807sinha/DSA/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/ayush807sinha/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayush807sinha/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -182,6 +183,7 @@
 | [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush807sinha/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/ayush807sinha/DSA/tree/master/0658-find-k-closest-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayush807sinha/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ayush807sinha/DSA/tree/master/0986-interval-list-intersections) |
 ## Bit Manipulation
 |  |
@@ -249,6 +251,7 @@
 | [0692-top-k-frequent-words](https://github.com/ayush807sinha/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ayush807sinha/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/ayush807sinha/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayush807sinha/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayush807sinha/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Line Sweep
 |  |
