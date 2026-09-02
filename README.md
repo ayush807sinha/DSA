@@ -73,6 +73,7 @@
 | [0057-insert-interval](https://github.com/ayush807sinha/DSA/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/ayush807sinha/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ayush807sinha/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ayush807sinha/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayush807sinha/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ayush807sinha/DSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/ayush807sinha/DSA/tree/master/0120-triangle) |
@@ -176,6 +177,7 @@
 | [0016-3sum-closest](https://github.com/ayush807sinha/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush807sinha/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/ayush807sinha/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ayush807sinha/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayush807sinha/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/ayush807sinha/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ayush807sinha/DSA/tree/master/0141-linked-list-cycle) |
@@ -248,6 +250,7 @@
 | [0015-3sum](https://github.com/ayush807sinha/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayush807sinha/DSA/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/ayush807sinha/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ayush807sinha/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush807sinha/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ayush807sinha/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ayush807sinha/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -488,4 +491,12 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/ayush807sinha/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayush807sinha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayush807sinha/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayush807sinha/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
