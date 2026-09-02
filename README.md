@@ -41,6 +41,7 @@
 | [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/ayush807sinha/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ayush807sinha/DSA/tree/master/0767-reorganize-string) |
+| [0844-backspace-string-compare](https://github.com/ayush807sinha/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayush807sinha/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ayush807sinha/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayush807sinha/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -191,6 +192,7 @@
 | [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush807sinha/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/ayush807sinha/DSA/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/ayush807sinha/DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush807sinha/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ayush807sinha/DSA/tree/master/0986-interval-list-intersections) |
 ## Bit Manipulation
@@ -274,6 +276,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush807sinha/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayush807sinha/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/ayush807sinha/DSA/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/ayush807sinha/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayush807sinha/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayush807sinha/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
@@ -499,4 +502,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayush807sinha/DSA/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/ayush807sinha/DSA/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
