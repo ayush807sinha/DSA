@@ -35,6 +35,7 @@
 | [0344-reverse-string](https://github.com/ayush807sinha/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ayush807sinha/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayush807sinha/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/ayush807sinha/DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ayush807sinha/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush807sinha/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayush807sinha/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -189,6 +190,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ayush807sinha/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ayush807sinha/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush807sinha/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/ayush807sinha/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ayush807sinha/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush807sinha/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -232,6 +234,7 @@
 | [0152-maximum-product-subarray](https://github.com/ayush807sinha/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ayush807sinha/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayush807sinha/DSA/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/ayush807sinha/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ayush807sinha/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/ayush807sinha/DSA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayush807sinha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
