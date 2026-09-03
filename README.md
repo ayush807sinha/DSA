@@ -22,6 +22,7 @@
 | [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush807sinha/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ayush807sinha/DSA/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/ayush807sinha/DSA/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ayush807sinha/DSA/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayush807sinha/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/ayush807sinha/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -41,6 +42,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayush807sinha/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/ayush807sinha/DSA/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/ayush807sinha/DSA/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ayush807sinha/DSA/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/ayush807sinha/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayush807sinha/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -195,6 +197,7 @@
 | [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush807sinha/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/ayush807sinha/DSA/tree/master/0658-find-k-closest-elements) |
+| [0763-partition-labels](https://github.com/ayush807sinha/DSA/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/ayush807sinha/DSA/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/ayush807sinha/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush807sinha/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -306,6 +309,7 @@
 | [0409-longest-palindrome](https://github.com/ayush807sinha/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ayush807sinha/DSA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/ayush807sinha/DSA/tree/master/0502-ipo) |
+| [0763-partition-labels](https://github.com/ayush807sinha/DSA/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ayush807sinha/DSA/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/ayush807sinha/DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ayush807sinha/DSA/tree/master/0881-boats-to-save-people) |
