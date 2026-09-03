@@ -113,6 +113,7 @@
 | [0860-lemonade-change](https://github.com/ayush807sinha/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ayush807sinha/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/ayush807sinha/DSA/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/ayush807sinha/DSA/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayush807sinha/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/ayush807sinha/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/ayush807sinha/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -200,6 +201,7 @@
 | [0763-partition-labels](https://github.com/ayush807sinha/DSA/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/ayush807sinha/DSA/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/ayush807sinha/DSA/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/ayush807sinha/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush807sinha/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ayush807sinha/DSA/tree/master/0986-interval-list-intersections) |
 ## Bit Manipulation
@@ -272,6 +274,7 @@
 | [0692-top-k-frequent-words](https://github.com/ayush807sinha/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ayush807sinha/DSA/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/ayush807sinha/DSA/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/ayush807sinha/DSA/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/ayush807sinha/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush807sinha/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayush807sinha/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
