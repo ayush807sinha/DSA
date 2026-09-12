@@ -99,6 +99,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ayush807sinha/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ayush807sinha/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ayush807sinha/DSA/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/ayush807sinha/DSA/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/ayush807sinha/DSA/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/ayush807sinha/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush807sinha/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -241,6 +242,7 @@
 | [0213-house-robber-ii](https://github.com/ayush807sinha/DSA/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/ayush807sinha/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ayush807sinha/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ayush807sinha/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ayush807sinha/DSA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayush807sinha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayush807sinha/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -337,6 +339,7 @@
 | [0051-n-queens](https://github.com/ayush807sinha/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/ayush807sinha/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ayush807sinha/DSA/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/ayush807sinha/DSA/tree/master/0494-target-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -524,4 +527,12 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ayush807sinha/DSA/tree/master/0881-boats-to-save-people) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ayush807sinha/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ayush807sinha/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
