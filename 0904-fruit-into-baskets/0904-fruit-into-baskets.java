@@ -1,45 +1,38 @@
 class Solution {
-    public int totalFruit(int[] fruits) {
+    public int totalFruit(int[] arr) {
+        int n = arr.length;
 
-        int basket = 2;
-        int n = fruits.length;
-    
-        int high = 0;
-        int low = 0;
-        int res =0;
+        int low =0;
+        int high =0;
+        int ans =0;
+        HashMap<Integer,Integer> map = new HashMap<>();
 
-        Map<Integer,Integer> map = new HashMap<>();
- 
-        for(high =0; high < n ;high++){
+        while(high<n){
 
-            int key = fruits[high];
-            map.put(key,map.getOrDefault(key,0)+1);
+            int i = arr[high];
 
+            map.put(i,map.getOrDefault(i,0)+1);
 
-            while(map.size()>basket){
-                int key2 = fruits[low];
-                map.put(key2,map.get(key2)-1);
+            while(map.size()>2){
+                int j = arr[low];
+                int freq = map.get(j);
 
-                if(map.get(key2)==0){
-                    map.remove(key2);
+                if(freq ==1){
+                    map.remove(j);
+                }else{
+                    map.put(j,freq-1);
                 }
-
                 low++;
-
             }
-
-            if(map.size()== basket || map.size()<basket){
-
-                int len = high-low+1;
-                res = Math.max(res,len);
-
-            }
+            
 
 
+            ans = Math.max(ans,high-low+1);
+
+            high++;
         }
 
-        return res;
+        return ans;
 
-    
     }
 }
