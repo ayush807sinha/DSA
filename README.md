@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayush807sinha/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayush807sinha/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ayush807sinha/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/ayush807sinha/DSA/tree/master/0141-linked-list-cycle) |
@@ -30,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayush807sinha/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayush807sinha/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ayush807sinha/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ayush807sinha/DSA/tree/master/0125-valid-palindrome) |
@@ -52,6 +54,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayush807sinha/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayush807sinha/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ayush807sinha/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush807sinha/DSA/tree/master/0209-minimum-size-subarray-sum) |
