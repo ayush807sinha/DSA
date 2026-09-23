@@ -54,6 +54,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayush807sinha/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ayush807sinha/DSA/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/ayush807sinha/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush807sinha/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayush807sinha/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
@@ -88,6 +89,7 @@
 | [0189-rotate-array](https://github.com/ayush807sinha/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ayush807sinha/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ayush807sinha/DSA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/ayush807sinha/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ayush807sinha/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush807sinha/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayush807sinha/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -142,6 +144,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ayush807sinha/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush807sinha/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayush807sinha/DSA/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ayush807sinha/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayush807sinha/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ayush807sinha/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayush807sinha/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -164,6 +167,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayush807sinha/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ayush807sinha/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush807sinha/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayush807sinha/DSA/tree/master/0724-find-pivot-index) |
