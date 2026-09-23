@@ -25,6 +25,7 @@
 | [0692-top-k-frequent-words](https://github.com/ayush807sinha/DSA/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/ayush807sinha/DSA/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ayush807sinha/DSA/tree/master/0767-reorganize-string) |
+| [0904-fruit-into-baskets](https://github.com/ayush807sinha/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayush807sinha/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/ayush807sinha/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ayush807sinha/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -62,6 +63,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayush807sinha/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ayush807sinha/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ayush807sinha/DSA/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/ayush807sinha/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayush807sinha/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayush807sinha/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Array
@@ -121,6 +123,7 @@
 | [0860-lemonade-change](https://github.com/ayush807sinha/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ayush807sinha/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/ayush807sinha/DSA/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/ayush807sinha/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/ayush807sinha/DSA/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayush807sinha/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/ayush807sinha/DSA/tree/master/0931-minimum-falling-path-sum) |
